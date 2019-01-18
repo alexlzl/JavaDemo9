@@ -1,5 +1,8 @@
 package com.test;
 
+/**
+ *
+ */
 
 public class UserDaoProxy implements IUserDao{
 
